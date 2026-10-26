@@ -342,7 +342,8 @@ The main dashboard displays cybersecurity modules and awareness statistics.
 
 Analyze suspicious URLs and identify potential phishing indicators.
 
-![Phishing URL Analyzer](screenshots/url-analyzer.png)
+![Phishing URL Analyzer]<img width="1890" height="907" alt="Screenshot_27-10-2026_31859_localhost" src="https://github.com/user-attachments/assets/ab269c9f-5992-4407-aa70-07130471dac5" />
+
 
 ---
 
@@ -350,7 +351,8 @@ Analyze suspicious URLs and identify potential phishing indicators.
 
 Detect suspicious email content and potential social engineering indicators.
 
-![Phishing Email Analyzer](screenshots/email-analyzer.png)
+![Phishing Email Analyzer]<img width="1882" height="903" alt="Screenshot_27-10-2026_31948_localhost" src="https://github.com/user-attachments/assets/a67287b1-641d-4726-b17c-62e0975d5111" />
+
 
 ---
 
@@ -358,7 +360,8 @@ Detect suspicious email content and potential social engineering indicators.
 
 Estimate password strength and receive security recommendations.
 
-![Password Strength Checker](screenshots/password-checker.png)
+![Password Strength Checker]<img width="1886" height="906" alt="Screenshot_27-10-2026_31959_localhost" src="https://github.com/user-attachments/assets/53736842-25aa-4c8a-95e6-565b6a85f79b" />
+
 
 ---
 
@@ -366,7 +369,8 @@ Estimate password strength and receive security recommendations.
 
 Test cybersecurity knowledge through interactive multiple-choice questions.
 
-![Cybersecurity Awareness Quiz](screenshots/awareness-quiz.png)
+![Cybersecurity Awareness Quiz]<img width="1886" height="905" alt="Screenshot_27-10-2026_32011_localhost" src="https://github.com/user-attachments/assets/a99bd2da-97d9-45b6-b678-98108f744f67" />
+
 
 ---
 
@@ -374,7 +378,8 @@ Test cybersecurity knowledge through interactive multiple-choice questions.
 
 View saved quiz results and cybersecurity awareness statistics.
 
-![Quiz History](screenshots/quiz-history.png)
+![Quiz History<img width="1892" height="906" alt="Screenshot_27-10-2026_32024_localhost" src="https://github.com/user-attachments/assets/4744d308-1867-4cc1-b00e-b87d38724ac4" />
+
 
 ---
 
@@ -382,7 +387,8 @@ View saved quiz results and cybersecurity awareness statistics.
 
 Export quiz history as a downloadable CSV report.
 
-![Security Reports](screenshots/reports.png)
+![Security Reports]<img width="1887" height="904" alt="Screenshot_27-10-2026_32036_localhost" src="https://github.com/user-attachments/assets/662d2e39-360b-4642-8b26-b3a341c1820a" />
+
 
 ---
 
